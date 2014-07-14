@@ -3,7 +3,7 @@
  * Columns with automatic width, similar to .col-xs-1 and friends.
  */
 
-.col-xs-auto, .col-xs1-auto .col-sm-auto, .col-md-auto, .col-lg-auto,
+.col-xs-auto, .col-xs1-auto, .col-sm-auto, .col-md-auto, .col-lg-auto,
 .col-xs-auto-right, .col-xs1-auto-right, .col-sm-auto-right, .col-md-auto-right, .col-lg-auto-right,
 .col-middle {
   position: relative;
